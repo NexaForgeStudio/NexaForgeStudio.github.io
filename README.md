@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cielologo.png" width="100%">
+  <img src="https://github.com/NexaForgeStudio/NexaForgeStudio.github.io/blob/main/copertinaLogo.png" width="100%">
 </p>
 
 # NexaForge Studio
