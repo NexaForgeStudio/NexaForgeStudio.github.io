@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="panorama.png" width="100%">
+  <img src="cielologo.png" width="100%">
 </p>
+
+# NexaForge Studio
 
 <h1 align="center">NexaForge Studio</h1>
 
